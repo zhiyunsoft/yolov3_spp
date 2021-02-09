@@ -1,0 +1,13 @@
+/my_yolo_dataset/train/
+/my_yolo_dataset/val/
+/data/my_data.data
+/data/my_data_label.names
+/data/my_train_data.shapes
+/data/my_train_data.txt
+/data/my_val_data.shapes
+/data/my_val_data.txt
+/my_yolo_dataset/train/images/
+/my_yolo_dataset/train/labels/
+/my_yolo_dataset/val/images/
+/my_yolo_dataset/val/labels/
+/weights/
